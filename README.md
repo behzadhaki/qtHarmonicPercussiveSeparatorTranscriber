@@ -16,3 +16,5 @@ From the "interface" folder, run the "qtMainGui.py"
 # How to use
 To use the software, refer to provided manual.
 
+![alt text](https://github.com/behzadhaki/qtHarmonicPercussiveSeparatorTranscriber/blob/master/gui.png)
+
