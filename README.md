@@ -9,6 +9,7 @@ Used for my thesis project, access report at: [WILL BE PUBLISHED LATER]
 2. Librosa:  https://librosa.github.io/librosa/
 3. PySynth:  https://github.com/mdoege/PySynth
 4. pyQT5  :  https://pypi.org/project/PyQt5/
+5. Music21:  http://web.mit.edu/music21/
 
 # How to run
 From the "interface" folder, run the "qtMainGui.py"
